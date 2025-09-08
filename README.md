@@ -61,7 +61,7 @@ Task1-FinArg-Classification/
 ├── data/                    # Data (only instructions or samples)
 │   └── README.md
 │
-├── notebooks/               # Jupyter notebooks for each approach
+├── code/               # Jupyter notebooks for each approach
 │   ├── feature_based.ipynb
 │   ├── gpt3.5_finetune.ipynb
 │   └── bert_finetune.ipynb
