@@ -49,9 +49,7 @@ The performance is reported in terms of **Weighted F1 Score** (higher is better)
 | Fine-tuned GPT-3.5 (Supervised)   | 0.55511       | 
 
 📌 **Conclusion:**  
-- Fine-tuning **BERT-base-Chinese** achieved the best performance.  
-- The **feature-based approach** achieved competitive results as a strong baseline.  
-- Supervised fine-tuning of **GPT-3.5** provided reasonable results but did not surpass BERT.  
+- Fine-tuning **BERT-base-Chinese** achieved the best performance suparssing strong baseline.
 ---
 
 ## 📂 Repository Structure
