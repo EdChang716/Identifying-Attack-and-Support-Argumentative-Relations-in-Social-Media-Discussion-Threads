@@ -39,10 +39,19 @@ We explored three main approaches:
 ---
 
 ## 📊 Results
-- Fine-tuning **BERT-base-Chinese** achieved the best performance.  
-- The supervised fine-tuning of GPT-3.5 also provided competitive results.  
-- Final Kaggle submission (`Task_1.csv`) scored highest on the leaderboard.  
+We evaluated three main approaches on the Kaggle leaderboard.  
+The performance is reported in terms of **Weighted F1 Score** (higher is better).
 
+| Method                           | Private Score |
+|----------------------------------|---------------|
+| **BERT-base-Chinese (Fine-tuning)** | **0.71291**   | 
+| Feature-based (OpenAI Embedding + RF) | 0.58593      | 
+| Fine-tuned GPT-3.5 (Supervised)   | 0.55511       | 
+
+📌 **Conclusion:**  
+- Fine-tuning **BERT-base-Chinese** achieved the best performance.  
+- The **feature-based approach** achieved competitive results as a strong baseline.  
+- Supervised fine-tuning of **GPT-3.5** provided reasonable results but did not surpass BERT.  
 ---
 
 ## 📂 Repository Structure
