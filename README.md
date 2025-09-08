@@ -63,5 +63,5 @@ Task1-FinArg-Classification/
 │
 ├── notebooks/               # Jupyter notebooks for each approach
 │   ├── feature_based.ipynb
-│   ├── gpt_finetune.ipynb
+│   ├── gpt3.5_finetune.ipynb
 │   └── bert_finetune.ipynb
