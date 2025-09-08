@@ -42,7 +42,7 @@ We explored three main approaches:
 We evaluated three main approaches on the Kaggle leaderboard.  
 The performance is reported in terms of **Weighted F1 Score** (higher is better).
 
-| Method                           | Private Score |
+| Method                           | Weighted F1 Score |
 |----------------------------------|---------------|
 | **BERT-base-Chinese (Fine-tuning)** | **0.71291**   | 
 | Feature-based (OpenAI Embedding + RF) | 0.58593      | 
