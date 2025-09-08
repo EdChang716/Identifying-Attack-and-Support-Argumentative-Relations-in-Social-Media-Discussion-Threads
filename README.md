@@ -58,10 +58,6 @@ Task1-FinArg-Classification/
 │
 ├── README.md                # Project documentation
 │
-├── report/                  # Reports and documents
-│   ├── Task_1_report.pdf
-│   └── Team_Project.pdf
-│
 ├── data/                    # Data (only instructions or samples)
 │   └── README.md
 │
